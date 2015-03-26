@@ -3,9 +3,9 @@ package access_log_test
 import (
 	"github.com/cloudfoundry/dropsonde/log_sender/fake"
 	"github.com/cloudfoundry/dropsonde/logs"
-	. "github.com/cloudfoundry/gorouter/access_log"
-	"github.com/cloudfoundry/gorouter/route"
-	"github.com/cloudfoundry/gorouter/test_util"
+	. "github.com/hjinkim-cf1/gorouter/access_log"
+	"github.com/hjinkim-cf1/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/test_util"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

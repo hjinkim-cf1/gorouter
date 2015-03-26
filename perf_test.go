@@ -1,12 +1,12 @@
 package main_test
 
 import (
-	"github.com/cloudfoundry/gorouter/access_log"
-	"github.com/cloudfoundry/gorouter/config"
-	"github.com/cloudfoundry/gorouter/proxy"
-	"github.com/cloudfoundry/gorouter/registry"
-	"github.com/cloudfoundry/gorouter/route"
-	"github.com/cloudfoundry/gorouter/varz"
+	"github.com/hjinkim-cf1/gorouter/access_log"
+	"github.com/hjinkim-cf1/gorouter/config"
+	"github.com/hjinkim-cf1/gorouter/proxy"
+	"github.com/hjinkim-cf1/gorouter/registry"
+	"github.com/hjinkim-cf1/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/varz"
 	"github.com/cloudfoundry/yagnats/fakeyagnats"
 
 	. "github.com/onsi/ginkgo"

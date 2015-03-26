@@ -1,10 +1,10 @@
 package access_log_test
 
 import (
-	. "github.com/cloudfoundry/gorouter/access_log"
+	. "github.com/hjinkim-cf1/gorouter/access_log"
 
-	router_http "github.com/cloudfoundry/gorouter/common/http"
-	"github.com/cloudfoundry/gorouter/route"
+	router_http "github.com/hjinkim-cf1/gorouter/common/http"
+	"github.com/hjinkim-cf1/gorouter/route"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
