@@ -2,10 +2,10 @@ package main_test
 
 import (
 	"github.com/cloudfoundry-incubator/candiedyaml"
-	"github.com/cloudfoundry/gorouter/config"
-	"github.com/cloudfoundry/gorouter/route"
-	"github.com/cloudfoundry/gorouter/test"
-	"github.com/cloudfoundry/gorouter/test_util"
+	"github.com/hjinkim-cf1/gorouter/config"
+	"github.com/hjinkim-cf1/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/test"
+	"github.com/hjinkim-cf1/gorouter/test_util"
 	"github.com/cloudfoundry/gunk/natsrunner"
 	"github.com/cloudfoundry/yagnats"
 	. "github.com/onsi/ginkgo"

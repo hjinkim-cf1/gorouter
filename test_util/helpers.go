@@ -1,7 +1,7 @@
 package test_util
 
 import (
-	"github.com/cloudfoundry/gorouter/config"
+	"github.com/hjinkim-cf1/gorouter/config"
 
 	"time"
 )

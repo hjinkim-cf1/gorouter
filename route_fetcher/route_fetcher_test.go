@@ -8,14 +8,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cloudfoundry/gorouter/config"
-	testRegistry "github.com/cloudfoundry/gorouter/registry/fakes"
-	"github.com/cloudfoundry/gorouter/route"
-	"github.com/cloudfoundry/gorouter/token_fetcher"
-	testTokenFetcher "github.com/cloudfoundry/gorouter/token_fetcher/fakes"
+	"github.com/hjinkim-cf1/gorouter/config"
+	testRegistry "github.com/hjinkim-cf1/gorouter/registry/fakes"
+	"github.com/hjinkim-cf1/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/token_fetcher"
+	testTokenFetcher "github.com/hjinkim-cf1/gorouter/token_fetcher/fakes"
 	"github.com/cloudfoundry/gosteno"
 
-	. "github.com/cloudfoundry/gorouter/route_fetcher"
+	. "github.com/hjinkim-cf1/gorouter/route_fetcher"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

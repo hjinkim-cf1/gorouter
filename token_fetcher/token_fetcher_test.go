@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/cloudfoundry/gorouter/config"
-	. "github.com/cloudfoundry/gorouter/token_fetcher"
+	"github.com/hjinkim-cf1/gorouter/config"
+	. "github.com/hjinkim-cf1/gorouter/token_fetcher"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
