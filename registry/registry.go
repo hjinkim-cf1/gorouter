@@ -8,8 +8,8 @@ import (
 	steno "github.com/cloudfoundry/gosteno"
 	"github.com/cloudfoundry/yagnats"
 
-	"github.com/cloudfoundry/gorouter/config"
-	"github.com/cloudfoundry/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/config"
+	"github.com/hjinkim-cf1/gorouter/route"
 )
 
 type RegistryInterface interface {

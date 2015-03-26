@@ -9,7 +9,7 @@ import (
 	"github.com/hjinkim-cf1/gorouter/config"
 	"github.com/hjinkim-cf1/gorouter/proxy"
 	"github.com/hjinkim-cf1/gorouter/registry"
-	"github.com/chjinkim-cf1/gorouter/varz"
+	"github.com/hjinkim-cf1/gorouter/varz"
 	steno "github.com/cloudfoundry/gosteno"
 	"github.com/cloudfoundry/yagnats"
 	"github.com/pivotal-golang/localip"

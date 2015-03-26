@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hjinkim-cf1/dropsonde"
+	"github.com/cloudfoundry/dropsonde"
 	"github.com/hjinkim-cf1/gorouter/access_log"
 	router_http "github.com/hjinkim-cf1/gorouter/common/http"
 	"github.com/hjinkim-cf1/gorouter/route"
