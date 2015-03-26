@@ -2,7 +2,7 @@ package route_test
 
 import (
 	"fmt"
-	. "github.com/cloudfoundry/gorouter/route"
+	. "github.com/hjinkim-cf1/gorouter/route"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"time"

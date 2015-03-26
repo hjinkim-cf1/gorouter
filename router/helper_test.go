@@ -1,8 +1,8 @@
 package router_test
 
 import (
-	"github.com/cloudfoundry/gorouter/registry"
-	"github.com/cloudfoundry/gorouter/test"
+	"github.com/hjinkim-cf1/gorouter/registry"
+	"github.com/hjinkim-cf1/gorouter/test"
 
 	"net"
 	"time"

@@ -4,7 +4,7 @@ package fakes
 import (
 	"sync"
 
-	"github.com/cloudfoundry/gorouter/route_fetcher"
+	"github.com/hjinkim-cf1/gorouter/route_fetcher"
 )
 
 type FakeRouteFetcherInterface struct {

@@ -7,8 +7,8 @@ import (
 
 	"github.com/cloudfoundry/yagnats"
 
-	"github.com/cloudfoundry/gorouter/proxy"
-	"github.com/cloudfoundry/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/proxy"
+	"github.com/hjinkim-cf1/gorouter/route"
 )
 
 func NewStickyApp(urls []route.Uri, rPort uint16, mbusClient yagnats.NATSConn, tags map[string]string) *TestApp {

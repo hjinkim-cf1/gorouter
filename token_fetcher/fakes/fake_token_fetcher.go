@@ -4,7 +4,7 @@ package fakes
 import (
 	"sync"
 
-	"github.com/cloudfoundry/gorouter/token_fetcher"
+	"github.com/hjinkim-cf1/gorouter/token_fetcher"
 )
 
 type FakeTokenFetcher struct {
