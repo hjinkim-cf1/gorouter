@@ -16,7 +16,7 @@ func TestGorouter(t *testing.T) {
 }
 
 var _ = BeforeSuite(func() {
-	path, err := gexec.Build("github.com/cloudfoundry/gorouter", "-race")
+	path, err := gexec.Build("github.com/hjinkim-cf1/gorouter", "-race")
 	Ω(err).ShouldNot(HaveOccurred())
 	gorouterPath = path
 })
