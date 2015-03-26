@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/cloudfoundry/gorouter",
+	"ImportPath": "github.com/hjinkim-cf1/gorouter",
 	"GoVersion": "go1.4",
 	"Packages": [
 		"."
