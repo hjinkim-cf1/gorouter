@@ -8,10 +8,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/cloudfoundry/gorouter/config"
-	"github.com/cloudfoundry/gorouter/registry"
-	"github.com/cloudfoundry/gorouter/route"
-	"github.com/cloudfoundry/gorouter/token_fetcher"
+	"github.com/hjinkim-cf1/gorouter/config"
+	"github.com/hjinkim-cf1/gorouter/registry"
+	"github.com/hjinkim-cf1/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/token_fetcher"
 	steno "github.com/cloudfoundry/gosteno"
 )
 

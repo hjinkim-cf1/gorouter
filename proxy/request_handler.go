@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cloudfoundry/gorouter/access_log"
-	"github.com/cloudfoundry/gorouter/common"
-	router_http "github.com/cloudfoundry/gorouter/common/http"
-	"github.com/cloudfoundry/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/access_log"
+	"github.com/hjinkim-cf1/gorouter/common"
+	router_http "github.com/hjinkim-cf1/gorouter/common/http"
+	"github.com/hjinkim-cf1/gorouter/route"
 	steno "github.com/cloudfoundry/gosteno"
 )
 

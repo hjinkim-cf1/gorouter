@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/apcera/nats"
-	. "github.com/cloudfoundry/gorouter/common/http"
+	. "github.com/hjinkim-cf1/gorouter/common/http"
 	steno "github.com/cloudfoundry/gosteno"
 	"github.com/cloudfoundry/yagnats"
 	"github.com/pivotal-golang/localip"

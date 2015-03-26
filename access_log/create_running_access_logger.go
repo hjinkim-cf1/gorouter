@@ -1,7 +1,7 @@
 package access_log
 
 import (
-	"github.com/cloudfoundry/gorouter/config"
+	"github.com/hjinkim-cf1/gorouter/config"
 	steno "github.com/cloudfoundry/gosteno"
 	"strconv"
 

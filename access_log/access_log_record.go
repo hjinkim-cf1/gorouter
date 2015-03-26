@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/cloudfoundry/gorouter/route"
+	"github.com/hjinkim-cf1/gorouter/route"
 )
 
 type AccessLogRecord struct {
