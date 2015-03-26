@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/cloudfoundry/gorouter/config"
+	"github.com/hjinkim-cf1/gorouter/config"
 )
 
 type TokenFetcher interface {
